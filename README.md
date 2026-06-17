@@ -61,6 +61,6 @@ curl -H "Authorization: token github_pat_11AZB4QUQ0QhNn1NH7iH2r_KENoyWdFBNWTcpnn
 ### git cloneコマンド(ダウンロードしたいディレクトリに移動してから実行)
 
 ```
-git clone https://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@github.com//treeb23/englishai.git
+git clone https://github.com/Shohei-Fujita-kg/-kg
 ```
 ```
